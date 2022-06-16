@@ -241,7 +241,7 @@ section {
     }
 
     .trainer {
-    margin: 1;
+    margin: 20px;
     background: #024e76;
     color: #fce138;
     flex: 1;
